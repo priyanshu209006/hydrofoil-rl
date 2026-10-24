@@ -1,0 +1,8 @@
+numpy
+matplotlib
+gymnasium
+neuralfoil
+stable-baselines3
+torch
+aerosandbox
+ipykernel
